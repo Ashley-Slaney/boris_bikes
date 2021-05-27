@@ -3,11 +3,3 @@
 # Error line number: 23
 # The error is because the class name (DockingStation) isn't defined
 # To fix this error, we need to create a class called 'DockingStation' so we can create an instance of the class
-
-
-# class DockingStation
-# 	def release_bike
-
-# 	end
-# end
-

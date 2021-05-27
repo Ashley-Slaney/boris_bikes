@@ -1,9 +1,0 @@
-Can you see this?
-yeah
-🖐😆🖐
-
-so is 😁this on your laptop or mine? when they save
-check your terminal for the local repo
-and your git hub
-
-i think you can actually push the commit from this program instead of via terminal 
