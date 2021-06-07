@@ -96,3 +96,4 @@ Anything else that seems useful
 
 ##License
 A short snippet describing the license (MIT, Apache etc)
+# Makers_week_3_myapp
